@@ -26,9 +26,9 @@
           "for",
           "switch",
           "while",
-          "fruit loops"],
+          "froot loops"],
         "correctAnswer": "for",
-        "feedback": "The for loop is used to repeat a task a set number of times. The while and do-while loops repeat a segment of code an unknown number of times. Switch is a conditional statement, not a loop."
+        "feedback": "The for loop is used to repeat a task a set number of times. The while loop repeats a segment of code an unknown number of times. Switch is a conditional statement, not a loop. Froot Loops are not a type of loop in java."
         },
         {
            "id":4,
